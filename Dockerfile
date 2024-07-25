@@ -16,7 +16,6 @@ RUN pip3 install --no-cache numpy \
     PySoundFile \
     datasets \
     evaluate \
-    traceback \
     nltk \
     matplotlib \
     pandas \
